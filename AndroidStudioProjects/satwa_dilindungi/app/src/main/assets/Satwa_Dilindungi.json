@@ -1,0 +1,35 @@
+{
+  "Daftar_Satwa": [
+    {
+      "nama": "Harimau Sumatra",
+      "image_url": "https://gardaanimalia.com/wp-content/uploads/2022/02/harimau-sumatera-3.jpeg",
+      "deskripsi": "Harimau Sumatra (Panthera tigris sumatrae) adalah salah satu subspesies harimau yang hanya ditemukan di pulau Sumatra. Mereka terancam punah karena perburuan ilegal dan hilangnya habitat."
+    },
+    {
+      "nama": "Badak Jawa ",
+      "image_url": "http://1.bp.blogspot.com/-e0xiKn4uaUU/UTCv-7o75uI/AAAAAAAAA14/fMqbgSxQZi4/s1600/di-vietnam_badak-jawa-telah-punah_big__20111026002204_file_vino_cms.jpg",
+      "deskripsi": "Badak Jawa (Rhinoceros sondaicus): Badak Jawa adalah spesies badak yang sangat terancam punah dan hanya ditemukan di pulau Jawa. Mereka memiliki satu tanduk dan tubuh yang berwarna abu-abu. Perburuan ilegal untuk gadingnya yang langka telah mengancam kelangsungan hidup mereka."
+    },
+
+    {
+      "nama": "Gajah Sumatra ",
+      "image_url": "https://serulingmas.com/wp-content/uploads/2021/04/1200px-Sumatra_elephant_Ragunan_Zoo_3.jpg",
+      "deskripsi": "Gajah Sumatra (Elephas maximus sumatranus): Gajah Sumatra adalah subspesies gajah yang hanya ditemukan di Sumatra. Mereka memiliki ukuran tubuh yang lebih kecil dibandingkan dengan gajah Afrika dan gading yang lebih kecil. Populasi gajah Sumatra juga terancam oleh perburuan ilegal dan perusakan habitat."
+    },
+    {
+      "nama": "Orangutan ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Orangutan_01.jpg",
+      "deskripsi": "Orangutan (Pongo spp.): Orangutan adalah primata besar yang ditemukan di pulau Kalimantan dan Sumatra. Mereka memiliki bulu merah kecoklatan dan memiliki tingkat kecerdasan yang tinggi. Orangutan sangat terancam punah karena perusakan habitat dan perdagangan ilegal, sehingga mereka dilindungi dengan ketat."
+    },
+    {
+      "nama": "Kakatua Hitam",
+      "image_url": "https://dl.kaskus.id/c1.staticflickr.com/8/7143/6781568407_3327087a9d_b.jpg",
+      "deskripsi": "Kakatua Hitam (Calyptorhynchus spp.): Kakatua hitam adalah kelompok spesies burung besar yang memiliki bulu hitam dan merah yang mencolok. Mereka terdapat di beberapa pulau di Indonesia, termasuk Pulau Papua. Populasi kakatua hitam terancam oleh perburuan ilegal dan perusakan habitat, sehingga mereka juga dilindungi secara hukum."
+    },
+    {
+      "nama": "Badak Jawa ",
+      "image_url": "http://1.bp.blogspot.com/-e0xiKn4uaUU/UTCv-7o75uI/AAAAAAAAA14/fMqbgSxQZi4/s1600/di-vietnam_badak-jawa-telah-punah_big__20111026002204_file_vino_cms.jpg",
+      "deskripsi": "Badak Jawa (Rhinoceros sondaicus): Badak Jawa adalah spesies badak yang sangat terancam punah dan hanya ditemukan di pulau Jawa. Mereka memiliki satu tanduk dan tubuh yang berwarna abu-abu. Perburuan ilegal untuk gadingnya yang langka telah mengancam kelangsungan hidup mereka."
+    }
+  ]
+}
